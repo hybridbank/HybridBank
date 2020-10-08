@@ -1,16 +1,20 @@
-### Hi there 👋
+# HybridBank
 
-<!--
-**hybridbank/HybridBank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Token details
 
-Here are some ideas to get you started:
+HBC will be an ERC20 Ethereum token
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Hybridbank Project
+
+360° Turnkey Financial Services Platform
+Specialized in Digital Assets
+ 
+Hybrid Bank is building a platform with missing Tools and Techniques where all Decentralized Financing applications can Unite Fairly, Transparently and Rely with each other
+
+Here are the links:
+
+* [Product website](https://www.hybridbank.io/)
+* [Whitepaper](https://www.hybridbank.io/images/whitepaper.pdf)
+* [Telegram](https://t.me/hybrid_bank)
+* [Youtube](https://www.youtube.com/channel/UCDwYjcAuzzao9iNccHWlu-g)
+* [Linkedin](https://www.linkedin.com/company/hybridbank/)
